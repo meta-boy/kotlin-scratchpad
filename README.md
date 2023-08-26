@@ -1,1 +1,1 @@
-Collection of various kotlin POCs
+Trie vs List filtering
